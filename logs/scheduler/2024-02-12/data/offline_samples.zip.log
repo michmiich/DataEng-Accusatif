@@ -1,0 +1,185 @@
+[2024-02-12T22:33:27.505+0000] {processor.py:157} INFO - Started process (PID=747) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:33:27.505+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:33:27.506+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:33:27.506+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:33:27.507+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:33:27.515+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:34:01.461+0000] {processor.py:157} INFO - Started process (PID=774) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:01.462+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:34:01.463+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:34:01.463+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:01.464+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:01.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.014 seconds
+[2024-02-12T22:34:35.987+0000] {processor.py:157} INFO - Started process (PID=801) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:35.987+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:34:35.988+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:34:35.988+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:35.989+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:34:35.997+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:35:09.779+0000] {processor.py:157} INFO - Started process (PID=829) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:09.779+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:35:09.780+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:35:09.780+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:09.781+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:09.788+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.011 seconds
+[2024-02-12T22:35:43.931+0000] {processor.py:157} INFO - Started process (PID=856) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:43.932+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:35:43.933+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:35:43.933+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:43.934+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:35:43.941+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.011 seconds
+[2024-02-12T22:36:17.787+0000] {processor.py:157} INFO - Started process (PID=883) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:17.787+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:36:17.789+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:36:17.788+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:17.790+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:17.797+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.015 seconds
+[2024-02-12T22:36:52.457+0000] {processor.py:157} INFO - Started process (PID=910) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:52.459+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:36:52.480+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:36:52.479+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:52.487+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:36:52.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.075 seconds
+[2024-02-12T22:37:26.535+0000] {processor.py:157} INFO - Started process (PID=937) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:37:26.536+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:37:26.537+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:37:26.537+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:37:26.538+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:37:26.547+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.014 seconds
+[2024-02-12T22:38:00.839+0000] {processor.py:157} INFO - Started process (PID=965) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:00.840+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:38:00.841+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:38:00.841+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:00.842+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:00.853+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.017 seconds
+[2024-02-12T22:38:34.471+0000] {processor.py:157} INFO - Started process (PID=991) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:34.472+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:38:34.473+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:38:34.473+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:34.474+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:38:34.482+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:39:08.224+0000] {processor.py:157} INFO - Started process (PID=1018) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:08.224+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:39:08.225+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:39:08.225+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:08.226+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:08.235+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:39:42.024+0000] {processor.py:157} INFO - Started process (PID=1044) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:42.024+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:39:42.026+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:39:42.025+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:42.026+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:39:42.035+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:40:15.952+0000] {processor.py:157} INFO - Started process (PID=1071) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:15.953+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:40:15.954+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:40:15.954+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:15.955+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:15.964+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:40:50.163+0000] {processor.py:157} INFO - Started process (PID=1099) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:50.163+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:40:50.165+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:40:50.165+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:50.165+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:40:50.174+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:41:24.380+0000] {processor.py:157} INFO - Started process (PID=1126) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:24.380+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:41:24.382+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:41:24.381+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:24.382+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:24.395+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.018 seconds
+[2024-02-12T22:41:58.632+0000] {processor.py:157} INFO - Started process (PID=1153) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:58.633+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:41:58.634+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:41:58.634+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:58.635+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:41:58.645+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.014 seconds
+[2024-02-12T22:42:32.907+0000] {processor.py:157} INFO - Started process (PID=1181) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:42:32.908+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:42:32.909+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:42:32.909+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:42:32.909+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:42:32.918+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:43:07.424+0000] {processor.py:157} INFO - Started process (PID=1206) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:07.424+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:43:07.425+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:43:07.425+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:07.426+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:07.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.015 seconds
+[2024-02-12T22:43:42.782+0000] {processor.py:157} INFO - Started process (PID=1233) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:42.783+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:43:42.784+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:43:42.784+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:42.785+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:43:42.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.016 seconds
+[2024-02-12T22:44:17.337+0000] {processor.py:157} INFO - Started process (PID=1261) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:17.337+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:44:17.339+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:44:17.338+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:17.339+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:17.348+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:44:51.972+0000] {processor.py:157} INFO - Started process (PID=1288) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:51.973+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:44:51.974+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:44:51.974+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:51.975+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:44:51.983+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:45:26.662+0000] {processor.py:157} INFO - Started process (PID=1315) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:45:26.662+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:45:26.664+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:45:26.663+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:45:26.664+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:45:26.676+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.016 seconds
+[2024-02-12T22:46:01.226+0000] {processor.py:157} INFO - Started process (PID=1342) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:01.227+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:46:01.228+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:46:01.228+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:01.229+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:01.240+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.016 seconds
+[2024-02-12T22:46:35.955+0000] {processor.py:157} INFO - Started process (PID=1370) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:35.955+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:46:35.957+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:46:35.956+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:35.957+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:46:35.966+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:47:10.825+0000] {processor.py:157} INFO - Started process (PID=1397) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:10.826+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:47:10.827+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:47:10.826+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:10.827+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:10.838+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.014 seconds
+[2024-02-12T22:47:45.022+0000] {processor.py:157} INFO - Started process (PID=1424) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:45.023+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:47:45.024+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:47:45.024+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:45.025+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:47:45.034+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:48:18.956+0000] {processor.py:157} INFO - Started process (PID=1451) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:18.956+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:48:18.957+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:48:18.957+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:18.958+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:18.966+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.012 seconds
+[2024-02-12T22:48:53.334+0000] {processor.py:157} INFO - Started process (PID=1478) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:53.335+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:48:53.336+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:48:53.336+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:53.337+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:48:53.346+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.014 seconds
+[2024-02-12T22:49:27.215+0000] {processor.py:157} INFO - Started process (PID=1505) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:49:27.216+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:49:27.217+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:49:27.217+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:49:27.218+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:49:27.226+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:50:01.146+0000] {processor.py:157} INFO - Started process (PID=1532) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:01.147+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:50:01.148+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:50:01.148+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:01.148+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:01.157+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.012 seconds
+[2024-02-12T22:50:35.173+0000] {processor.py:157} INFO - Started process (PID=1559) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:35.173+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:50:35.175+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:50:35.174+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:35.175+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:50:35.184+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:51:09.689+0000] {processor.py:157} INFO - Started process (PID=1587) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:09.689+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:51:09.691+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:51:09.690+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:09.691+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:09.700+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:51:44.553+0000] {processor.py:157} INFO - Started process (PID=1615) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:44.554+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:51:44.556+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:51:44.556+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:44.557+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:51:44.567+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.017 seconds
+[2024-02-12T22:52:19.105+0000] {processor.py:157} INFO - Started process (PID=1642) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:19.105+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:52:19.106+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:52:19.106+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:19.107+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:19.115+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
+[2024-02-12T22:52:54.066+0000] {processor.py:157} INFO - Started process (PID=1677) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:54.066+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:52:54.068+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:52:54.068+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:54.069+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:52:54.078+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.015 seconds
+[2024-02-12T22:53:29.762+0000] {processor.py:157} INFO - Started process (PID=1704) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:53:29.762+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:53:29.764+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:53:29.763+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:53:29.764+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:53:29.775+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.016 seconds
+[2024-02-12T22:54:04.582+0000] {processor.py:157} INFO - Started process (PID=1731) to work on /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:54:04.582+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/data/offline_samples.zip for tasks to queue
+[2024-02-12T22:54:04.584+0000] {logging_mixin.py:151} INFO - [2024-02-12T22:54:04.583+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:54:04.584+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/data/offline_samples.zip
+[2024-02-12T22:54:04.593+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/data/offline_samples.zip took 0.013 seconds
